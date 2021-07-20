@@ -1,0 +1,74 @@
+
+body {
+	background: url("../img/capa.png"),
+				url("../img/ruida.png"),
+				linear-gradient( 50deg, #ff4169, #7c26f8 );
+	background-attachment: fixed;
+}
+
+.opacity-1 {
+	opacity: 0!important; 
+}
+
+.opacity-2 {
+	opacity: 0.2!important; 
+}
+
+.opacity-3 {
+	opacity: 0.4!important; 
+}
+
+.opacity-4 {
+	opacity: 0.6!important; 
+}
+
+.opacity-5 {
+	opacity: 0.8!important; 
+}
+
+/**/
+
+.link-green {
+	color: white;
+}
+
+.link-green:hover {
+	color: #33ffbb;
+}
+
+/**/
+
+.bg-black {
+	background: #000;
+}
+
+.bg-transparence {
+	background: rgba( 0, 0, 0, 0.6 );
+}
+/**/
+
+ .btn-custom {
+    border-radius: 500px;
+    padding: 10px 20px;
+}
+
+.btn-branco {
+    border: 2px solid white;
+}
+
+/**/
+
+.text-purple {
+	color: #7c25f8;
+}
+
+.text-clean-green {
+	color: #9bf0e1;
+}
+
+/**/
+
+.rotation {
+	transform: rotate(30deg);
+	padding-left: 90px;
+}
